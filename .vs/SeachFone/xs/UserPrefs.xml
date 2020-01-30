@@ -1,14 +1,15 @@
 ﻿<Properties StartupConfiguration="{7EBD066A-EAEB-499B-97FF-BE9033D8EA08}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SeachFone/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SeachFone/RegexFactory.cs">
     <Files>
-      <File FileName="SeachFone/Program.cs" Line="1" Column="1" />
+      <File FileName="SeachFone/Program.cs" Line="6" Column="13" />
+      <File FileName="SeachFone/RegexFactory.cs" Line="6" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SeachFone" expanded="True">
             <Node name="SeachFone" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="RegexFactory.cs" selected="True" />
             </Node>
           </Node>
         </State>
